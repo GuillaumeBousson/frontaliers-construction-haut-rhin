@@ -1,0 +1,9 @@
+"test";"coefficient";"ecart_type";"p_valeur";"communes"
+"Résultat de départ";3,05;1,12;0,006;366
+"Contrôle : frontaliers vers l'Allemagne";2,04;3,01;0,498;366
+"Seuil 10 % de frontaliers";0,84;0,39;0,03;366
+"Seuil 30 % de frontaliers";1,43;0,45;0,001;366
+"Maisons individuelles";0,23;0,45;0,614;366
+"Immeubles collectifs";5,56;1,58;0;324
+"Comparaison à l'intérieur de chaque intercommunalité";-0,82;1,38;0,553;365
+"Sans Saint-Louis Agglomération";-1,76;0,8;0,028;326
